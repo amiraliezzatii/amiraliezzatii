@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 ## Hi there 👋 I'm amiraliezzatii
 ### 👨🏻‍ &nbsp;About Me
 - 💻 I'm a creative programmer
-- 🌱 I'm currently learning python
-- ☕ I'm a Computer <del>Programmer</del> ![LOVE](https://img.shields.io/badge/-Lover-D43F3F)&nbsp;
- and Web Developer, also an Open Source Lover 📃,  
+- 🌱 I'm currently learning python  
 
 ### 🛠 &nbsp;Tech Stack
 ![linux](https://img.shields.io/badge/-Linux-141a20?style=flat&logo=linux&logoColor=fff)&nbsp;
