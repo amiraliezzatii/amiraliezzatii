@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/amiraliezzatii?logo=github&style=fo
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/amiraliezzatii)](https://twitter.com/amiraliezzatii)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/amiraliezzai)
 
-- 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
+- 🤔I am learning Python in <a href="pytopia.ai"> pytopia <a> I'm happy to visit its site.
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiraliezzatii&show_icons=true&locale=en&layout=compact" alt="amiraliezzatii" />
