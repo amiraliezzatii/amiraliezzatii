@@ -26,7 +26,7 @@ src="https://img.shields.io/github/followers/amiraliezzatii?logo=github&style=fo
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ezzatiamirali7@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/amiraliezzatii/)](https://www.instagram.com/amiraliezzatii)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/amiraliezzatii)](https://twitter.com/amiraliezzatii)
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/amiraliezzai)
+[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/amiraliezzatii)
 
 - 🤔I am learning Python in <a href="pytopia.ai"> pytopia <a> I'm happy to visit its site.
 
